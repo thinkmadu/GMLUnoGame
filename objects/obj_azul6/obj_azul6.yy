@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_azul6",
+    "path":"sprites/spr_azul6/spr_azul6.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
