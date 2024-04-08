@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_verdeMaisDois",
+    "path":"sprites/spr_verdeMaisDois/spr_verdeMaisDois.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

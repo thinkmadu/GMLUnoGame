@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_amarelo3",
+    "path":"sprites/spr_amarelo3/spr_amarelo3.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

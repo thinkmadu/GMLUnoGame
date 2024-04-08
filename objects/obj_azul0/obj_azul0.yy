@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_azul1",
-    "path":"sprites/spr_azul1/spr_azul1.yy",
+    "name":"spr_azul0",
+    "path":"sprites/spr_azul0/spr_azul0.yy",
   },
   "spriteMaskId":null,
   "visible":true,

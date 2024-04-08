@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_verde7",
+    "path":"sprites/spr_verde7/spr_verde7.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

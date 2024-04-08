@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_verdeBloqueio",
+    "path":"sprites/spr_verdeBloqueio/spr_verdeBloqueio.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_verdeReverso",
+    "path":"sprites/spr_verdeReverso/spr_verdeReverso.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

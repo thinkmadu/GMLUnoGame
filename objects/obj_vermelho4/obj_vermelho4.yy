@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_vermelho4",
+    "path":"sprites/spr_vermelho4/spr_vermelho4.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
