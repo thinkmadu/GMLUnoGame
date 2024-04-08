@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_vermelhoBloqueio",
+    "path":"sprites/spr_vermelhoBloqueio/spr_vermelhoBloqueio.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -101,7 +101,7 @@
     {"id":{"name":"obj_vermelhoMaisQuatro","path":"objects/obj_vermelhoMaisQuatro/obj_vermelhoMaisQuatro.yy",},},
     {"id":{"name":"obj_vermelhoMudaCor","path":"objects/obj_vermelhoMudaCor/obj_vermelhoMudaCor.yy",},},
     {"id":{"name":"obj_vermelhoReverso","path":"objects/obj_vermelhoReverso/obj_vermelhoReverso.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"id":{"name":"spr_amarelo0","path":"sprites/spr_amarelo0/spr_amarelo0.yy",},},
     {"id":{"name":"spr_amarelo1","path":"sprites/spr_amarelo1/spr_amarelo1.yy",},},
     {"id":{"name":"spr_amarelo2","path":"sprites/spr_amarelo2/spr_amarelo2.yy",},},
@@ -164,13 +164,11 @@
     {"id":{"name":"spr_vermelhoMaisQuatro","path":"sprites/spr_vermelhoMaisQuatro/spr_vermelhoMaisQuatro.yy",},},
     {"id":{"name":"spr_vermelhoMudarCor","path":"sprites/spr_vermelhoMudarCor/spr_vermelhoMudarCor.yy",},},
     {"id":{"name":"spr_vermelhoReverso","path":"sprites/spr_vermelhoReverso/spr_vermelhoReverso.yy",},},
-    {"id":{"name":"Sprite63","path":"sprites/Sprite63/Sprite63.yy",},},
-    {"id":{"name":"Sprite64","path":"sprites/Sprite64/Sprite64.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

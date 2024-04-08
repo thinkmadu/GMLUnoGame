@@ -137,7 +137,5 @@
     {"name":"spr_vermelhoMaisQuatro","order":13,"path":"sprites/spr_vermelhoMaisQuatro/spr_vermelhoMaisQuatro.yy",},
     {"name":"spr_vermelhoMudarCor","order":14,"path":"sprites/spr_vermelhoMudarCor/spr_vermelhoMudarCor.yy",},
     {"name":"spr_vermelhoReverso","order":12,"path":"sprites/spr_vermelhoReverso/spr_vermelhoReverso.yy",},
-    {"name":"Sprite63","order":16,"path":"sprites/Sprite63/Sprite63.yy",},
-    {"name":"Sprite64","order":17,"path":"sprites/Sprite64/Sprite64.yy",},
   ],
 }

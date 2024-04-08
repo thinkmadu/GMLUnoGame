@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_vermelhoMaisQuatro",
+    "path":"sprites/spr_vermelhoMaisQuatro/spr_vermelhoMaisQuatro.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

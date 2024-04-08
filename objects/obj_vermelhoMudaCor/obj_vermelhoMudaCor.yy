@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_vermelhoMudarCor",
+    "path":"sprites/spr_vermelhoMudarCor/spr_vermelhoMudarCor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
